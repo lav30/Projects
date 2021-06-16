@@ -5,7 +5,7 @@
 
 This page provides a brief description to the projects completed in different areas of data analysis and machine learning.
 
- Please visit the [portfolio landing page](https://lav30.github.io/Projects/) to explore in detail completed projects. 
+ Please visit the [portfolio landing page](https://lav30.github.io/Projects/) to explore the completed projects.
  
  ## List of Projects Completed 
  
